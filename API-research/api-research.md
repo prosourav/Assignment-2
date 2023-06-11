@@ -4,11 +4,11 @@ Research Public API
 
 Research the GitHub API for use in development projects.
 
-- `[*GET /orgs/{org}/actions/variables*](https://docs.github.com/en/rest/actions/variables#list-organization-variables)`
-- `[*POST /orgs/{org}/actions/variables*](https://docs.github.com/en/rest/actions/variables#create-an-organization-variable)`
-- `[*GET /orgs/{org}/actions/variables/{name}*](https://docs.github.com/en/rest/actions/variables#get-an-organization-variable)`
-- `[*PATCH /orgs/{org}/actions/variables/{name}*](https://docs.github.com/en/rest/actions/variables#update-an-organization-variable)`
-- `[*DELETE /orgs/{org}/actions/variables/{name}](https://docs.github.com/en/rest/actions/variables#delete-an-organization-variable)`*
+- [GET] `/orgs/{org}/actions/variables `
+- [POST] `/orgs/{org}/actions/variables*]`
+- [GET] `/orgs/{org}/actions/variables/{name}*]`
+- [PATCH] `/orgs/{org}/actions/variables/{name}*]`
+- [DELETE] `/orgs/{org}/actions/variables/{name}]`
 
 - [x]  Authentication
     
